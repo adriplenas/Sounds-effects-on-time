@@ -1,0 +1,1 @@
+"./aic3204.obj" "./main.obj" "./oled5515.obj" "./usbstk5515_i2c.obj" "./vectores.obj" "../lnkx.cmd" -l"C:/workspace/rts55x.lib" 
